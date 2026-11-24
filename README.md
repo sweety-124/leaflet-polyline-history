@@ -1,4 +1,4 @@
-package link:https://www.npmjs.com/package/leaflet-polyline-history
+Package link:https://www.npmjs.com/package/leaflet-polyline-history
 
 # leaflet-polyline-history
 
