@@ -1,3 +1,5 @@
+package link:https://www.npmjs.com/package/leaflet-polyline-history
+
 # leaflet-polyline-history
 
 Framework-independent undo/redo history for Leaflet polylines and polygons.
