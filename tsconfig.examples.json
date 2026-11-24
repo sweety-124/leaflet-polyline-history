@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "leaflet-polyline-history": ["./src/index.ts"],
+      "leaflet-polyline-history/react": ["./src/react/index.ts"]
+    }
+  },
+  "include": ["examples/**/*.ts", "examples/**/*.tsx"]
+}
